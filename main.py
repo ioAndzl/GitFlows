@@ -72,3 +72,8 @@
 #https://kbroman.org/github_tutorial/pages/fork.html
 
 
+#-------------------------- Remote ------------------------------#
+#code has become a social activity
+
+
+
