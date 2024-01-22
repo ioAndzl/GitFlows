@@ -26,7 +26,7 @@ add :
 Host github.com-ioAndzl
     HostName github.com
     User git
-    IdentityFile ~/.ssh/ioAndzl
+    IdentityFile ~/.ssh/ioandzl
 
 # Fandzl account
 Host github.com-octoandzl
@@ -38,7 +38,7 @@ Host github.com-octoandzl
 
 [user]
     name = Aadil YUNUSH
-    email = defaultemail@gmail.com
+    email = andzlhub@gmail.com
 
 
 -------------to
@@ -49,12 +49,12 @@ add :
 [user]
         email = aadil.yunush@gmail.com
         name = Aadil
-[includeIf "gitdir:~/ioAndzl/"]
-        path=~/ioAndzl/.gitconfig-ioandzl
+[includeIf "gitdir:~/ioandzl/"]
+        path=~/ioAndzl/.gitconfig_ioandzl
 [includeIf "gitdir:~/Work/"]
-        path=~/Work/.gitconfig-work
+        path=~/Work/.gitconfig_work
 [includeIf "gitdir:~/octoandzl/"]
-        path=~/octoandzl/.gitconfig-octoandzl
+        path=~/octoandzl/.gitconfig_octoandzl
 
 [color]
         diff = auto
@@ -68,7 +68,7 @@ in .gitconfig_ioandzl file
 add
 [user]
     email = aadil.yunush@gmail.com
-    name = aadil 
+    name = ioandzl
 
 ~
 
